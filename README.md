@@ -19,7 +19,7 @@ A classic snake game implemented in Python using the `turtle` module. This proje
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/snake-game.git
-   cd snake-game
+   cd snake_game
 2. Run the game:
 ```bash
 python main.py
