@@ -17,9 +17,10 @@ A classic snake game implemented in Python using the `turtle` module. This proje
 ## Gameplay Instructions
 
 1. Clone this repository:
-   ```bash
-   git clone https://github.com/ChandhanSaai/Snake-game.git
-   cd snake_game
+```bash
+git clone https://github.com/ChandhanSaai/Snake-game.git
+cd snake_game
+```
 2. Run the game:
 ```bash
 python main.py
@@ -42,7 +43,7 @@ python main.py
 - Each time the snake eats food, it grows in size, and your score increases.
 - Avoid colliding with the walls or the snake's own body.
 ## Preview
-![image]()
+![image](Snake_game_gif.gif)
 ## Tech Stack
 - Language: Python
 - Library: Turtle Graphics
