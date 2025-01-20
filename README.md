@@ -10,7 +10,7 @@ A classic snake game implemented in Python using the `turtle` module. This proje
 - **Food:** The snake grows in size and the score increases every time it eats the food.
 - **Scoreboard:** Displays the current score and shows "Game Over" when the game ends.
 - **Collision Detection:** Ends the game when the snake collides with itself or the walls.
-- **Speed:** Smooth gameplay with adjustable frame  updates.
+- **Speed:** Smooth gameplay with adjustable frame updates.
 
 ---
 
